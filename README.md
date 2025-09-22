@@ -5,7 +5,7 @@
 
 Analyzed 6 months of FitNutra sales, marketing, and website data (\~50k customers, 1M sessions) to increase whey protein & pre-workout sales by 30%, reduce CAC, and boost customer CLV. Applied Python, SQL, and Power BI to identify top-performing products, optimize marketing channels, and forecast emerging trends. Recommendations, including subscription models and vegan product launches, projected **30% sales growth** and **CAC reduction from ₹37.5K → ₹25K**.
 
-Here you can view the dashboard:![FitNutra Marketing Optimization Dashboard](dashboard/dashboard.pdf) 
+Here you can view the dashboard:![FitNutra Marketing Optimization Dashboard](dashboards/dashboards.pdf) 
 
 ## Business Problem
 
