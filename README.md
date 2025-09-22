@@ -69,16 +69,16 @@ Why it matters: Without intervention, FitNutra risks losing market share, oversp
 * Track competitor SEO & social media quarterly.
 * **Limitations:** Dataset lacked granular customer lifestyle data; future analysis could refine churn and retention strategies.
 
-
 ---
 
 ## Call to Action
 
-For questions, collaborations, or deeper walkthroughs of dashboards and notebooks, 
-connect with me on [LinkedIn](https://www.linkedin.com/in/dewansh-vishwakarma)&
+For questions, collaborations, or deeper walkthroughs of dashboards and notebooks,  
+
+connect with me on [LinkedIn](https://www.linkedin.com/in/dewansh-vishwakarma) &
 Email: dewansh03@gmail.com.
 
----
+
 
 ## Repository Structure
 
