@@ -50,23 +50,30 @@ Why it matters: Without intervention, FitNutra risks losing market share, oversp
 
 ## Key Results & Recommendations
 
-1. **Sales Growth:** Whey protein (60%) and pre-workout (25%) dominate. Muscle Gain segment in Mumbai/Delhi drives 35% of orders.
-   * **Action:** Launch whey + shaker bundle (15% off) for Diwali 2025; target Muscle Gain segment via Instagram ads.
+- **Product Focus**  
+  Whey (60%) & pre-workout (25%) dominate revenue; Mumbai/Delhi Muscle Gain segment = 35% orders.  
+  → Launch Whey + Shaker bundle (15% off) for Diwali 2025 via Instagram → target 18–22% AOV uplift.
 
-2. **Marketing Optimization:** Instagram ROAS 3.2 > Google Ads CAC ₹40K; top influencer (INF001) ROI 4.5.
-   * **Action:** Shift 40% budget from Google → Instagram; double top influencer budget; pause underperforming influencer campaigns.
+- **Marketing Efficiency**  
+  Instagram ROAS 3.2× beats Google Ads (CAC ₹40K+); top influencer ROI 4.5×.  
+  → Shift 40% budget to Instagram + top influencers → reduce CAC ₹37.5K → ₹25K in 4–6 months.
 
-3. **Customer Behavior & CLV:** CLV \~₹12,760 for subscription users; repeat rate 25%.
-   * **Action:** Offer 15% subscription discount + free shaker; run loyalty campaigns targeting high-value customers in Mumbai/Delhi.
+- **Customer Retention**  
+  Subscription users show 2.5× higher CLV (~₹12,760); repeat rate only 25%.  
+  → Offer 15% lifetime discount + free shaker on subscription → push repeat rate to 40%+.
 
-4. **Website Optimization:** Mobile bounce 45%, cart abandonment 30%, checkout slow.
-   * **Action:** Optimize mobile checkout <3s, add UPI/COD trust badges, test exit-intent popups.
+- **Website Fixes**  
+  Mobile bounce 45%, cart abandonment 30–40%, slow checkout.  
+  → Speed up mobile checkout (<3s), add UPI/COD badges + exit-intent popups → cut abandonment 15–20%.
 
-5. **Competitor Insights:** MuscleBlaze & GNC lead via SEO & Instagram.
-   * **Action:** Target 50 SEO keywords; launch TikTok challenges; collaborate with fitness blogs.
+- **Competitive Edge**  
+  MuscleBlaze & GNC lead in SEO & social.  
+  → Target 40–50 high-intent keywords + launch TikTok challenges → +25–35% organic traffic.
 
-6. **Predictive Insights:** Vegan supplements demand high (80% confidence), energy bars medium (50%).
-   * **Action:** Launch vegan protein in Q1 2026; pilot energy bars with influencers; forecasted 15% growth in Q2 2026.
+- **Future Growth**  
+  Vegan supplements forecast strong (80% confidence); energy bars moderate.  
+  → Launch vegan protein Q1 2026 + pilot energy bars → +15% category revenue Q2–Q3 2026.
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DewanshVK-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewanshvk/)  
